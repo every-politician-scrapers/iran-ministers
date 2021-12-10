@@ -1,0 +1,169 @@
+{
+  "title": "Mohammad Ali Zolfigol",
+  "pageID": 35139119,
+  "categories": [
+    "1966 births",
+    "Iranian academics",
+    "Living people",
+    "Iranian chemists",
+    "Recipients of the Order of Research"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Ali Zolfigol is an Iranian professor of chemistry and current Minister of Science, Research and Technology, since August 25, 2021.",
+              "links": [
+                {
+                  "text": "chemistry",
+                  "type": "internal",
+                  "page": "chemistry"
+                },
+                {
+                  "text": "Minister of Science, Research and Technology",
+                  "type": "internal",
+                  "page": "Ministry of Science, Research and Technology (Iran)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Ali Zolfigol"
+                ]
+              }
+            },
+            {
+              "text": "He was the President of Bu-Ali Sina University from August 2, 2008 to June 8, 2014.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "Chancellor_(education)",
+                  "anchor": "University_president"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bu-Ali Sina University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1966",
+          "month": "2",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohammad Ali Zolfigol"
+          },
+          "image": {
+            "text": "محمدعلی زلفی گل1.jpg"
+          },
+          "birth_date": {
+            "text": "February 2, 1966"
+          },
+          "birth_place": {
+            "text": "Ashtian, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ashtian"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian"
+          },
+          "office": {
+            "text": "Minister of Science, Research and Technology",
+            "links": [
+              {
+                "text": "Minister of Science, Research and Technology",
+                "type": "internal",
+                "page": "Ministry of Science, Research and Technology (Iran)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 August 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mansour Gholami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mansour Gholami"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of Bu-Ali Sina University",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "Chancellor_(education)",
+                "anchor": "University_president"
+              },
+              {
+                "type": "internal",
+                "page": "Bu-Ali Sina University"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 August 2008"
+          },
+          "term_end1": {
+            "text": "8 June 2014"
+          },
+          "president1": {
+            "text": "Mahmoud Ahmadinejad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Ahmadinejad"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ardeshir Khazaei"
+          },
+          "successor1": {
+            "text": "Mansour Gholami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mansour Gholami"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

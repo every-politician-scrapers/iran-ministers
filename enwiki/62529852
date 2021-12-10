@@ -1,0 +1,205 @@
+{
+  "title": "Mohammad Mokhber",
+  "pageID": 62529852,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Iranian bankers",
+    "People from Dezful",
+    "Iranian people",
+    "Iranian politicians",
+    "Iranian individuals subject to the U.S. Department of the Treasury sanctions"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Mokhber Dezfuli (born 1955) is an Iranian politician who is the seventh and current first vice president of Iran since 2021.",
+              "links": [
+                {
+                  "text": "first vice president of Iran",
+                  "type": "internal",
+                  "page": "Vice President of Iran"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Mokhber Dezfuli"
+                ]
+              }
+            },
+            {
+              "text": "He was former head of the Execution of Imam Khomeini’s Order (EIKO), the chairman of board at Sina Bank and deputy governor of Khuzestan Province.",
+              "links": [
+                {
+                  "text": "Execution of Imam Khomeini’s Order",
+                  "type": "internal",
+                  "page": "Execution of Imam Khomeini's Order"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sina Bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Khuzestan Province"
+                }
+              ]
+            },
+            {
+              "text": "He was born in Dezful, Iran.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dezful"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "First Vice President of Iran since 2021",
+          "template": "short description"
+        },
+        {
+          "date": "December 2019",
+          "template": "blp sources"
+        },
+        {
+          "birth_year": "1955",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "محمد مخبر دزفولی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohammad Mokhber"
+          },
+          "image": {
+            "text": "Mokhber 04.jpg"
+          },
+          "birth_name": {
+            "text": "Mohammad Mokhber Dezfuli"
+          },
+          "birth_place": {
+            "text": "Dezful, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dezful"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1955 (age 66)"
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iranian peoples"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "order": {
+            "text": "7th First Vice President of Iran",
+            "links": [
+              {
+                "text": "First Vice President of Iran",
+                "type": "internal",
+                "page": "Vice President of Iran"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 August 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Eshaq Jahangiri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eshaq Jahangiri"
+              }
+            ]
+          },
+          "order1": {
+            "text": "President of Execution of Imam Khomeini's Order",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Execution of Imam Khomeini's Order"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 July 2007"
+          },
+          "appointer1": {
+            "text": "Ali Khamenei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Khamenei"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mohammad Javad Iravani"
+          },
+          "successor1": {
+            "text": "Aref Norouzi (acting)"
+          },
+          "website": {
+            "text": "Government website"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

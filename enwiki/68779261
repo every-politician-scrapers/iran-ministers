@@ -1,0 +1,189 @@
+{
+  "title": "Mohammad-Reza Gharaei Ashtiani",
+  "pageID": 68779261,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "Islamic Republic of Iran Army brigadier generals",
+    "Islamic Republic of Iran Army personnel of the Iran–Iraq War",
+    "Iranian military commanders",
+    "Iranian individuals subject to the U.S. Department of the Treasury sanctions",
+    "People from Tehran"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad-Reza Gharaei Ashtiani, is the current minister responsible for the Ministry of Defense and Armed Forces Logistics of Iran.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Defense and Armed Forces Logistics"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad-Reza Gharaei Ashtiani"
+                ]
+              }
+            },
+            {
+              "text": "Ashtiani was sworn in on August 25, 2021, replacing Brigadier General Amir Hatami who held role since 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amir Hatami"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian general and minister",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "blp unsourced"
+        },
+        {
+          "list": [
+            "Kurdish rebellion",
+            "Iran–Iraq War"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "محمدرضا قرایی آشتیانی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Amir",
+            "links": [
+              {
+                "text": "Amir",
+                "type": "internal",
+                "page": "Amir (Iranian Army)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mohammad-Reza Gharaei Ashtiani"
+          },
+          "image": {
+            "text": "Mohammad Reza Gharayi Ashtiani.jpg"
+          },
+          "caption": {
+            "text": "Gharaei Ashtiani in 2021"
+          },
+          "birth_date": {
+            "text": "c. undefined 1960"
+          },
+          "birth_place": {
+            "text": "Tehran, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tehran"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Ground Force",
+            "links": [
+              {
+                "text": "Ground Force",
+                "type": "internal",
+                "page": "Islamic Republic of Iran Army Ground Forces"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1980–present"
+          },
+          "rank": {
+            "text": "Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "unit": {
+            "text": "23rd Takavar Division\n\nImam Ali Officers' Academy",
+            "links": [
+              {
+                "text": "23rd Takavar Division",
+                "type": "internal",
+                "page": "23rd Takavar Division"
+              },
+              {
+                "type": "internal",
+                "page": "Imam Ali Officers' Academy"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Kurdish rebellion\n\nIran–Iraq War"
+          },
+          "office1": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence and Armed Forces Logistics (Iran)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 August 2021"
+          },
+          "president1": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Amir Hatami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amir Hatami"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

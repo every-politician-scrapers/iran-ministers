@@ -1,0 +1,330 @@
+{
+  "title": "Ahmad Vahidi",
+  "pageID": 24098397,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Islamic Revolutionary Guard Corps brigadier generals",
+    "Government ministers of Iran",
+    "Defence ministers of Iran",
+    "Quds Force personnel",
+    "Islamic Revolution Committees personnel",
+    "Iranian individuals subject to the U.S. Department of the Treasury sanctions"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ahmad Vahidi (, born 27 June 1958) is an Iranian military commander of the Revolutionary Guards and current Minister of Interior since August 25, 2021.",
+              "links": [
+                {
+                  "text": "Revolutionary Guards",
+                  "type": "internal",
+                  "page": "Islamic Revolutionary Guard Corps"
+                },
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of Interior (Iran)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ahmad Vahidi"
+                ]
+              }
+            },
+            {
+              "text": "In 1988, he was appointed as the commander of its extraterritorial special forces, Quds Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Quds Force"
+                }
+              ]
+            },
+            {
+              "text": "He was the minister of defense under Mahmoud Ahmadinejad, having held the post from 3 September 2009 until 15 August 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mahmoud Ahmadinejad"
+                }
+              ]
+            },
+            {
+              "text": "Vahidi is president of the Supreme National Defense University since August 2016 and member of the Expediency Council, since August 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme National Defense University"
+                },
+                {
+                  "text": "Expediency Council",
+                  "type": "internal",
+                  "page": "Expediency Discernment Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1958",
+          "month": "6",
+          "day": "27",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "احمد وحیدی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "birth_name": {
+            "text": "Ahmad Shahcheraghi"
+          },
+          "birth_date": {
+            "text": "June 27, 1958"
+          },
+          "birth_place": {
+            "text": "Shiraz, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shiraz"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iranian peoples"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Minister of Interior",
+            "links": [
+              {
+                "text": "Minister of Interior",
+                "type": "internal",
+                "page": "Ministry of Interior (Iran)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 August 2021"
+          },
+          "president1": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Abdolreza Rahmani Fazli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdolreza Rahmani Fazli"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence and Armed Forces Logistics (Iran)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 September 2009"
+          },
+          "term_end2": {
+            "text": "15 August 2013"
+          },
+          "president2": {
+            "text": "Mahmoud Ahmadinejad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Ahmadinejad"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mostafa Mohammad-Najjar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mostafa Mohammad-Najjar"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Hossein Dehghan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hossein Dehghan"
+              }
+            ]
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Sardar",
+            "links": [
+              {
+                "text": "Sardar",
+                "type": "internal",
+                "page": "Sardar (IRGC)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ahmad Vahidi"
+          },
+          "image": {
+            "text": "Ahmad Vahidi 13990806 0446722.jpg"
+          },
+          "caption": {
+            "text": "Vahidi in 2016"
+          },
+          "allegiance": {
+            "text": "Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Revolutionary Guards",
+            "links": [
+              {
+                "text": "Revolutionary Guards",
+                "type": "internal",
+                "page": "Islamic Revolutionary Guard Corps"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1980–2021"
+          },
+          "rank": {
+            "text": "Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Quds Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quds Force"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Iran–Iraq War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iran–Iraq War"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Behind the Headlines: Iran's terrorist defense minister",
+          "url": "https://www.mfa.gov.il/MFA/About+the+Ministry/Behind+the+Headlines/Iran_terrorist_defense_minister_23-Aug-2009.htm",
+          "date": "23 August 2009",
+          "access-date": "28 August 2009",
+          "publisher": "Israeli Ministry of Foreign Affairs",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Kenneth Katzman",
+          "url": "https://fas.org/sgp/crs/mideast/R44017.pdf",
+          "title": "Iran's Foreign and Defense Policies",
+          "work": "Congressional Research Service",
+          "publisher": "Federation of American Scientists",
+          "date": "6 February 2017",
+          "access-date": "1 March 2017",
+          "page": "25",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "title": "Iran News Round Up – August 3, 2016",
+          "url": "http://www.criticalthreats.org/iran-news-round-august-3-2016",
+          "access-date": "31 January 2017",
+          "work": "AEI Critical Threats Project",
+          "date": "3 August 2016",
+          "archive-url": "https://web.archive.org/web/20160807013034/http://www.criticalthreats.org/iran-news-round-august-3-2016",
+          "archive-date": "7 August 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.bbc.com/persian/iran-40922069",
+          "title": "تغییرات مجمع تشخیص؛ ریاست هاشمی شاهرودی و عضویت رئیسی و قالیباف",
+          "date": "2017-08-14",
+          "access-date": "2019-02-21",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Iran defense minister a terror suspect",
+          "url": "http://www.washingtontimes.com/news/2009/aug/21/iranian-defense-minister-terrorist/print/",
+          "date": "21 August 2009",
+          "access-date": "23 August 2009",
+          "work": "The Washington Times",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
