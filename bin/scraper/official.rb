@@ -11,13 +11,28 @@ class MemberList
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.title').text.tidy
     end
   end
 
   class Members
+    def members
+      [president] + super
+    end
+
+    def president_node
+      noko.css('.president')
+    end
+
+    def president
+      {
+        name:     president_node.css('h2').text.tidy,
+        position: president_node.css('h3').text.tidy,
+      }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.minister,.vice_president').css('.col-lg-12')
     end
   end
 end
