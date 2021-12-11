@@ -192,6 +192,13 @@
             "سبزوار رضایی میرقائد"
           ],
           "template": "lang-fa"
+        },
+        {
+          "text": "Supreme Council for Economic Coordination of Iran",
+          "lan1": "fa",
+          "text1": "شورای عالی هماهنگی اقتصادی سران قوا",
+          "lt": "Supreme Council for Economic Coordination",
+          "template": "ill"
         }
       ],
       "infoboxes": [
