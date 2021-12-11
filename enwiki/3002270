@@ -205,8 +205,11 @@
             "links": [
               {
                 "text": "Mohammad Mosaddegh",
-                "type": "internal",
-                "page": ":fa:محمد مصدق (حقوقدان)"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "fa"
+                }
               }
             ]
           },
@@ -243,8 +246,11 @@
             "links": [
               {
                 "text": "Gholam-Hossein Esmaeili",
-                "type": "internal",
-                "page": ":fa:غلامحسین اسماعیلی"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "fa"
+                }
               }
             ]
           },
