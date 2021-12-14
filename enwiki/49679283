@@ -250,6 +250,16 @@
                   "page": "Ali Khamenei"
                 }
               ]
+            },
+            {
+              "text": "Raisi is often seen as a frontrunner to succeed Khamenei as Supreme Leader.",
+              "links": [
+                {
+                  "text": "Supreme Leader",
+                  "type": "internal",
+                  "page": "Supreme Leader of Iran"
+                }
+              ]
             }
           ]
         }
@@ -320,7 +330,7 @@
             "text": "ابراهیم رئیسی"
           },
           "image": {
-            "text": "File:Raeesi 1400.jpeg"
+            "text": "File:Raeesi 1400 (cropped).jpeg"
           },
           "caption": {
             "text": "Raisi in 2021"
@@ -329,14 +339,7 @@
             "text": "President of Iran"
           },
           "order": {
-            "text": "8th",
-            "links": [
-              {
-                "text": "8th",
-                "type": "internal",
-                "page": "List of presidents of Iran"
-              }
-            ]
+            "text": "8th"
           },
           "predecessor": {
             "text": "Hassan Rouhani",
@@ -914,6 +917,34 @@
           "title": "Iran has rigged its election to favour Ebrahim Raisi, a hardliner",
           "url": "https://www.economist.com/middle-east-and-africa/2021/06/12/iran-has-rigged-its-election-to-favour-ebrahim-raisi-a-hardliner",
           "work": "The Economist",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-03-29",
+          "title": "The “Other” Election: After Khamenei Who Will Succeed? {{!}} ISPI",
+          "url": "https://web.archive.org/web/20200329181821/https://www.ispionline.it/it/pubblicazione/other-election-after-khamenei-who-will-succeed-16508",
+          "access-date": "2021-12-14",
+          "website": "web.archive.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2017-03-08",
+          "title": "Predicting the Unpredictable in Iranian Politics {{!}} Stratfor",
+          "url": "https://web.archive.org/web/20170308121442/https://www.stratfor.com/analysis/predicting-unpredictable-iranian-politics",
+          "access-date": "2021-12-14",
+          "website": "web.archive.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-03-29",
+          "title": "Iran: the unspoken battle to succeed Ayatollah Khamenei",
+          "url": "https://web.archive.org/web/20200329181243/https://www.ft.com/content/8d1d19ea-3c3d-11ea-b232-000f4477fbca",
+          "url-status": "live",
+          "access-date": "2021-12-14",
+          "website": "web.archive.org",
           "template": "citation",
           "type": "web"
         },
