@@ -1,0 +1,45 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q332486,Supreme Leader of Iran,Q794,,,,1979-12-03,,,,Supreme Leader of Iran
+Q31067633,Deputy Supreme Leader of Iran,Q794,,,,1985-05-05,,,,
+Q838380,President of Iran,Q794,Q794,Q2660216,Q742419,1980-02-04,,,,President of Iran
+Q40097798,First Vice President of Iran,Q794,,,,,,,,
+Q2660216,Vice President of Iran,Q794,,,,,,,,Vice President of Iran
+Q13561063,Prime Minister of Iran,Q794,Q794,,Q1790725,1906-08-01,1989-08-03,,,Prime Minister of Iran
+Q108872199,Vice President of Iran for Economic Affairs,Q794,Q794,,,,,,,Vice President of Iran for Economic Affairs
+Q108872213,Vice President of Iran for Executive Affairs,Q794,Q794,,,,,,,Vice President of Iran for Executive Affairs
+Q110042804,Vice-President for Legal Affairs,Q794,Q794,,,,,,,
+Q110042795,Vice-President for Parliamentary Affairs,Q794,Q794,,,,,,,
+Q110042807,Vice-President for Women and Family Affairs,Q794,Q794,,,,,,,
+Q110042875,Vice-President as Head of Plan and Budget Organisation,Q794,Q794,,,,,,,
+Q107379078,Vice President as Head of Atomic Energy Organization of Iran,Q794,Q794,,,,,,,
+Q110042883,Vice-President as Head of the Martyrs and Veterans' Affairs Foundation,Q794,Q794,,,,,,,
+Q110042886,Vice-President as Head of the Administrative and Recruitment Affairs Organisation,Q794,Q794,,,,,,,
+Q110042888,Vice-President as Head of Department of Environment,Q794,Q794,,,,,,,
+Q110042480,Minister of Agricultural Jihad,,Q794,,,,,,,
+Q108046090,Minister of Commerce of Iran,Q794,,,,,,,,
+Q110042498,"Minister of Cooperation, Labour and Social Welfare",,Q794,,,,,,,
+Q110038961,"Minister of Cultural Heritage, Handicrafts and Tourism",,Q794,,,,,,,
+Q109669247,Minister of Culture and Islamic Guidance,Q794,,,,,,,,
+Q110039042,Minister of Defense and Armed Forces Logistics,,Q794,,,,,,,
+Q108852880,Minister of Economic Affairs and Finance,Q794,Q794,,,1906,,,,
+Q110042533,Minister of Education,,Q794,,,,,,,
+Q110039096,Minister of Energy (Iran),,Q794,,,,,,,
+Q127710,Foreign Affairs Minister of Iran,Q794,Q794,,,1821-10,,,,
+Q110039117,Minister of Health and Medical Education,,Q794,,,,,,,
+Q108752025,Minister of Housing and Urban Development,Q794,Q794,,,,,,,
+Q110042550,"Minister of Industry, Mining and Trade",,Q794,,,,,,,
+Q110038716,Minister of Information and Communications Technology,Q794,Q794,,,,,,,
+Q109924436,Minister of Intelligence and Tourism,Q107258515,Q107258515,,,,,,,
+Q107040655,Minister of Interior of the Islamic Republic of Iran,Q794,,,,,,,,
+Q110042609,Minister of Justice,,Q794,,,,,,,
+Q59506325,Minister of Labour and Social Affairs of Iran,Q794,,,,,,,,
+Q24192280,Minister of Petroleum,Q794,,,,,,,,
+Q110039130,"Minister of Science, Research and Technology (Iran)",,Q794,,,,,,,
+Q110039138,Minister of Youth Affairs and Sports (Iran),,Q794,,,,,,,
+Q110042988,Chief of Staff,,,,,,,,,
+Q110126773,Head of the Office of the Supreme Leader of Iran,,,,,,,,,
+Q6597965,Speaker of the Islamic Consultative Assembly,Q794,,,,1906-10-06,,,,List of speakers of the Parliament of Iran
+Q20110284,Governor of the Central Bank of Iran,Q794,,,,,,,,Governor of the Central Bank of Iran
+Q107327562,Chief of the General Staff,Q794,Q794,,,,,,,
+Q5662557,Chief Justice of Iran,Q794,,,,,,,,Chief Justice of Iran
+Q6627742,Mayor of Tehran,Q794,,,,1908,,,,List of mayors of Tehran
