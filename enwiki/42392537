@@ -289,48 +289,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "first": "Abbas W.",
-          "last": "Samii",
-          "title": "The Changing Landscape of Party Politics in Iran—A Case Study",
-          "journal": "Journal of the European Society for Iranian Studies",
-          "number": "1",
-          "date": "Winter 2005",
-          "pages": "53–62",
-          "url": "http://www.sssup.it/UploadDocs/4525_6_The_Changing_Landscape_of_Party_Politics_in_Iran_A_Case_Study_The_Journal_of_the_European_Society_for_Iranian_Studies_02.pdf",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://aftabnews.ir/vdceff8zpjh8wei.b9bj.html",
-          "work": "Aftab News Agency",
-          "script-title": "fa:سیدصولت مرتضوی ‌رئیس ستاد انتخابات کشور ‌شد",
-          "date": "17 May 2011",
-          "accessdate": "17 August 2016",
-          "language": "Persian",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

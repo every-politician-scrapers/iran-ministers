@@ -228,43 +228,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://al-monitor.com/pulse/tr/contents/articles/originals/2015/06/saeed-jalili-nuclear-talks-parliament-elections.html",
-          "title": "Will nuclear talks prevent Jalili's return to politics",
-          "last": "Bizar",
-          "first": "Maysam",
-          "work": "Al-Monitor",
-          "date": "23 June 2015",
-          "accessdate": "25 February 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.irdiplomacy.ir/en/page/1959427/Reformists+Betrayed+By+FairWeather+Allies.html",
-          "title": "Reformists Betrayed By Fair-Weather Allies?",
-          "work": "Iranian Diplomacy",
-          "date": "30 May 2016",
-          "accessdate": "11 February 2017",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Parliament members",
-          "url": "http://rc.majlis.ir/fa/parliament_member/show/701899",
-          "publisher": "Iranian Majlis",
-          "accessdate": "28 October 2016",
-          "language": "Persian",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

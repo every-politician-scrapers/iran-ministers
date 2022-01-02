@@ -271,59 +271,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Behind the Headlines: Iran's terrorist defense minister",
-          "url": "https://www.mfa.gov.il/MFA/About+the+Ministry/Behind+the+Headlines/Iran_terrorist_defense_minister_23-Aug-2009.htm",
-          "date": "23 August 2009",
-          "access-date": "28 August 2009",
-          "publisher": "Israeli Ministry of Foreign Affairs",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Kenneth Katzman",
-          "url": "https://fas.org/sgp/crs/mideast/R44017.pdf",
-          "title": "Iran's Foreign and Defense Policies",
-          "work": "Congressional Research Service",
-          "publisher": "Federation of American Scientists",
-          "date": "6 February 2017",
-          "access-date": "1 March 2017",
-          "page": "25",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "title": "Iran News Round Up – August 3, 2016",
-          "url": "http://www.criticalthreats.org/iran-news-round-august-3-2016",
-          "access-date": "31 January 2017",
-          "work": "AEI Critical Threats Project",
-          "date": "3 August 2016",
-          "archive-url": "https://web.archive.org/web/20160807013034/http://www.criticalthreats.org/iran-news-round-august-3-2016",
-          "archive-date": "7 August 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.bbc.com/persian/iran-40922069",
-          "title": "تغییرات مجمع تشخیص؛ ریاست هاشمی شاهرودی و عضویت رئیسی و قالیباف",
-          "date": "2017-08-14",
-          "access-date": "2019-02-21",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Iran defense minister a terror suspect",
-          "url": "http://www.washingtontimes.com/news/2009/aug/21/iranian-defense-minister-terrorist/print/",
-          "date": "21 August 2009",
-          "access-date": "23 August 2009",
-          "work": "The Washington Times",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

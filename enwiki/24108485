@@ -222,41 +222,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.tasnimnews.com/fa/news/1392/06/02/122731/%D9%86%D8%B4%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AF%D9%88%D9%84%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D8%AE%D8%A7%D8%AA%D9%85%DB%8C-%D9%88-%D8%A7%D8%AD%D9%85%D8%AF%DB%8C-%D9%86%DA%98%D8%A7%D8%AF-%D8%A8%D9%87-%DA%86%D9%87-%DA%A9%D8%B3%D8%A7%D9%86%DB%8C-%D8%B1%D8%B3%DB%8C%D8%AF-%D8%AC%D8%AF%D9%88%D9%84",
-          "work": "Tasnim News Agency",
-          "script-title": "fa:نشان‌های دولتی در روزهای پایانی خاتمی و احمدی‌نژاد به چه‌کسانی رسید؟",
-          "language": "fa",
-          "date": "24 August 2013",
-          "access-date": "15 April 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "زندگینامه: علی اکبر محرابیان (۱۳۴۸-)",
-          "url": "http://www.hamshahrionline.ir/details/78015",
-          "website": "www.hamshahrionline.ir",
-          "date": "3 April 2009",
-          "access-date": "2016-01-27",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "پايان نامه هاي دفاع شده",
-          "url": "http://alborz.ut.ac.ir/ThesisDefendedList.php?stat=all&major=0&search_student_name=%25DA%25E1%25ED+%25C7%25DF%25C8%25D1+%25E3%25CD%25D1%25C7%25C8%25ED%25C7%25E4&search_active=true",
-          "website": "alborz.ut.ac.ir",
-          "access-date": "2016-01-27",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
