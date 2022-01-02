@@ -190,45 +190,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://al-monitor.com/pulse/originals/2016/06/khamenei-appoint-mohammad-bagheri-armed-forces-iran.html",
-          "title": "Khamenei appoints new head of Iran's armed forces",
-          "author": "Arash Karami",
-          "date": "28 June 2016",
-          "access-date": "1 March 2017",
-          "publisher": "Al-Monitor",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Kenneth Katzman",
-          "url": "https://fas.org/sgp/crs/mideast/R44017.pdf",
-          "title": "Iran's Foreign and Defense Policies",
-          "work": "Congressional Research Service",
-          "publisher": "Federation of American Scientists",
-          "date": "6 February 2017",
-          "accessdate": "1 March 2017",
-          "page": "22",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://irangeo.net/if-isis-attacks-baghdad-iran-will-intervene-militarily-says-iranian-general/",
-          "title": "If ISIS attacks Baghdad, Iran will intervene militarily, says Iranian general",
-          "publisher": "IranGeo",
-          "date": "3 December 2016",
-          "accessdate": "12 April 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
