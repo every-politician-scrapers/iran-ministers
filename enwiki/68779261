@@ -50,6 +50,11 @@
           "template": "short description"
         },
         {
+          "timestamp": "20220106051519",
+          "help": "off",
+          "template": "prod blp/dated"
+        },
+        {
           "date": "September 2021",
           "template": "blp unsourced"
         },
