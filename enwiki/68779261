@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Mohammad-Reza Gharaei Ashtiani, is the current minister responsible for the Ministry of Defense and Armed Forces Logistics of Iran.",
+              "text": "Mohammad-Reza Gharaei Ashtiani is the current minister responsible for the Ministry of Defense and Armed Forces Logistics of Iran.",
               "links": [
                 {
                   "type": "internal",
@@ -48,15 +48,6 @@
         {
           "description": "Iranian general and minister",
           "template": "short description"
-        },
-        {
-          "timestamp": "20220106051519",
-          "help": "off",
-          "template": "prod blp/dated"
-        },
-        {
-          "date": "September 2021",
-          "template": "blp unsourced"
         },
         {
           "list": [
