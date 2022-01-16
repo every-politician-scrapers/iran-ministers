@@ -75,6 +75,10 @@
       ],
       "templates": [
         {
+          "description": "Iranian politician (born 1958)",
+          "template": "short description"
+        },
+        {
           "date": "October 2020",
           "template": "use dmy dates"
         },
