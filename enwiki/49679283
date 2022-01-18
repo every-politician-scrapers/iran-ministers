@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Sayyid Ebrahim Raisolsadati (born 14 December 1960), commonly known as Ebrahim Raisi, is an Iranian hardline, ultra conservative Islamist, principlist politician, Muslim jurist, and the eighth and current president of Iran since 3 August 2021, having been elected to the presidency in the 2021 Iranian presidential election.",
+              "text": "Sayyid Ebrahim Raisolsadati (born 14 December 1960), commonly known as Ebrahim Raisi, is an Iranian hardline, ultra conservative Islamist, principlist politician, Muslim jurist, and the eighth and current president of Iran since 3 August 2021, having been elected to the presidency in the 2021 election.",
               "links": [
                 {
                   "type": "internal",
@@ -64,7 +64,7 @@
                   "page": "president of Iran"
                 },
                 {
-                  "text": "2021 Iranian presidential election",
+                  "text": "2021 election",
                   "type": "internal",
                   "page": "2021 Iranian presidential election"
                 }
