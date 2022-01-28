@@ -108,7 +108,7 @@
             "text": "June 27, 1958"
           },
           "birth_place": {
-            "text": "Shiraz, Iran",
+            "text": "Shiraz, Fars Province, Imperial State of Iran",
             "links": [
               {
                 "type": "internal",
@@ -116,7 +116,11 @@
               },
               {
                 "type": "internal",
-                "page": "Iran"
+                "page": "Fars Province"
+              },
+              {
+                "type": "internal",
+                "page": "Imperial State of Iran"
               }
             ]
           },

@@ -70,6 +70,16 @@
           "template": "short description"
         },
         {
+          "template": "redirect",
+          "redirect": "Zarghami",
+          "links": [
+            {
+              "page": "Cyma Zarghami",
+              "desc": "the former Nickelodeon president"
+            }
+          ]
+        },
+        {
           "year": "1959",
           "month": "2",
           "day": "26",
