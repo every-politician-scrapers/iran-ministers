@@ -172,6 +172,9 @@
           "term_start1": {
             "text": "15 July 2007"
           },
+          "term_end1": {
+            "text": "7 December 2021"
+          },
           "appointer1": {
             "text": "Ali Khamenei",
             "links": [
@@ -185,7 +188,7 @@
             "text": "Mohammad Javad Iravani"
           },
           "successor1": {
-            "text": "Aref Norouzi (acting)"
+            "text": "Aref Norouzi"
           },
           "website": {
             "text": "Government website"
