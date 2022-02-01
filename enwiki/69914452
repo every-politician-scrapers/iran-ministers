@@ -1,0 +1,115 @@
+{
+  "title": "Amin Hossein Rahimi",
+  "pageID": 69914452,
+  "categories": [
+    "21st-century Iranian politicians",
+    "1968 births",
+    "Living people",
+    "Ministers of Justice of Iran",
+    "People from Malayer",
+    "Members of the 8th Islamic Consultative Assembly"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amin Hossein Rahimi (born 1968) is an Iranian politician.",
+              "formatting": {
+                "bold": [
+                  "Amin Hossein Rahimi"
+                ]
+              }
+            },
+            {
+              "text": "He served in the majlis from 2008 and to 2012 and has been the minister of justice since 25 August 2021.",
+              "links": [
+                {
+                  "text": "majlis",
+                  "type": "internal",
+                  "page": "Islamic Consultative Assembly"
+                },
+                {
+                  "text": "minister of justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Iran)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian politician (born 1968)",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1968",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "امین‌حسین رحیمی4.jpg"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Iran)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 August 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Alireza Avayi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alireza Avayi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1968 (age 54)"
+          },
+          "birth_place": {
+            "text": "Malayer, Hamadan Province",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malayer"
+              },
+              {
+                "type": "internal",
+                "page": "Hamadan Province"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
