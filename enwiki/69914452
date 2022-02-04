@@ -5,9 +5,9 @@
     "21st-century Iranian politicians",
     "1968 births",
     "Living people",
+    "Members of the 8th Islamic Consultative Assembly",
     "Ministers of Justice of Iran",
-    "People from Malayer",
-    "Members of the 8th Islamic Consultative Assembly"
+    "People from Malayer"
   ],
   "sections": [
     {
@@ -89,6 +89,59 @@
               {
                 "type": "internal",
                 "page": "Alireza Avayi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of the Supreme Audit Court",
+            "links": [
+              {
+                "text": "President of the Supreme Audit Court",
+                "type": "internal",
+                "page": "Supreme Audit Court of Iran"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 September 2013"
+          },
+          "term_end1": {
+            "text": "20 July 2016"
+          },
+          "predecessor1": {
+            "text": "Abdolreza Rahmani Fazli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdolreza Rahmani Fazli"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Adel Azar"
+          },
+          "office2": {
+            "text": "Member of the Parliament of Iran",
+            "links": [
+              {
+                "text": "Member of the Parliament of Iran",
+                "type": "internal",
+                "page": "Parliament of Iran"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 May 2008"
+          },
+          "term_end2": {
+            "text": "26 May 2012"
+          },
+          "constituency2": {
+            "text": "Malayer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Malayer"
               }
             ]
           },
