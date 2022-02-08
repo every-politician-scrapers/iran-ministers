@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Javad Owji (born 1966) is an Iranian oil engineer and politician who has been serving as the minister of oil since 25 August 2021.",
+              "text": "Javad Owji (Persian: جواد اوجی; born 24 July 1966) is an Iranian oil engineer and politician who has been serving as the minister of oil since 25 August 2021.",
               "links": [
                 {
                   "text": "minister of oil",
@@ -48,8 +48,11 @@
           "template": "use dmy dates"
         },
         {
-          "birth_year": "1966",
-          "template": "birth year and age"
+          "year": "1966",
+          "month": "7",
+          "day": "24",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -89,7 +92,7 @@
             ]
           },
           "birth_date": {
-            "text": "1966 (age 56)"
+            "text": "July 24, 1966"
           },
           "birth_place": {
             "text": "Mashhad, Iran",
