@@ -8,7 +8,8 @@
     "Iranian Shia Muslims",
     "University of Tehran alumni",
     "Ambassadors of Iran to Bahrain",
-    "People from Semnan Province"
+    "People from Semnan Province",
+    "Foreign ministers of Iran"
   ],
   "sections": [
     {
@@ -18,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Hossein Amirabdollahian (born 1964) is an Iranian diplomat and current foreign minister of Iran.",
+              "text": "Hossein Amir-Abdollahian (born 1964) is an Iranian diplomat and current foreign minister of Iran.",
               "links": [
                 {
                   "text": "foreign minister",
@@ -28,7 +29,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Hossein Amirabdollahian"
+                  "Hossein Amir-Abdollahian"
                 ]
               }
             },
@@ -148,7 +149,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Hossein Amirabdollahian"
+            "text": "Hossein Amir-Abdollahian"
           },
           "image": {
             "text": "File:Hossein_Amir-Abdollahian_13950523_5533991.jpg#mw-jump-to-license"
