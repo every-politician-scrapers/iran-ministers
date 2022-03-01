@@ -1,0 +1,6 @@
+ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+3,Q25423137,3rd Islamic Consultative Assembly,,,,,,,,,,,Q28712520,2nd Islamic Consultative Assembly,Q28712517,4th Islamic Consultative Assembly,,,,
+4,Q28712517,4th Islamic Consultative Assembly,,,,,,,,,,,,,,,,,,
+2,Q28712520,2nd Islamic Consultative Assembly,,,,,,,,,,,,,,,,,,
+10,Q25424055,10th legislature of the Islamic Republic of Iran,2016-05-28,2020-05-26,2016-05-28,11,,,2020-05-26,11,,,,,Q95215862,11th legislature of the Islamic Republic of Iran,,,,
+11,Q95215862,11th legislature of the Islamic Republic of Iran,2020-05-27,,2020-05-27,11,,,,,,,Q25424055,10th legislature of the Islamic Republic of Iran,,,,,,
