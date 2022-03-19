@@ -3,7 +3,7 @@ Q332486,Supreme Leader of Iran,Q794,,,,1979-12-03,,,,Supreme Leader of Iran
 Q31067633,Deputy Supreme Leader of Iran,Q794,,,,1985-05-05,,,,
 Q838380,President of Iran,Q794,Q794,Q2660216,Q742419,1980-02-04,,,,President of Iran
 Q40097798,First Vice President of Iran,Q794,,,,,,,,
-Q2660216,Vice President of Iran,Q794,,,,,,,,Vice President of Iran
+Q2660216,Vice President of Iran,Q794,Q794,,,1979,,,,Vice President of Iran
 Q13561063,Prime Minister of Iran,Q794,Q794,,Q1790725,1906-08-01,1989-08-03,,,Prime Minister of Iran
 Q108872199,Vice President of Iran for Economic Affairs,Q794,Q794,,,,,,,Vice President of Iran for Economic Affairs
 Q108872213,Vice President of Iran for Executive Affairs,Q794,Q794,,,,,,,Vice President of Iran for Executive Affairs
