@@ -1,5 +1,14 @@
 {
-  "embed": "yes",
+  "honorific_prefix": "Sardar",
+  "name": "Ahmad Vahidi",
+  "image": "Ahmad Vahidi 13990806 0446722.jpg",
+  "caption": "Vahidi in 2020",
+  "allegiance": "Iran",
+  "branch": "Revolutionary Guards",
+  "serviceyears": "1980–2021",
+  "rank": "Brigadier general",
+  "commands": "Quds Force",
+  "battles": "Iran–Iraq War",
   "birth_name": "Ahmad Shahcheraghi",
   "birth_date": "June 27, 1958",
   "birth_place": "Shiraz, Fars Province, Imperial State of Iran",
@@ -14,16 +23,4 @@
   "president2": "Mahmoud Ahmadinejad",
   "predecessor2": "Mostafa Mohammad-Najjar",
   "successor2": "Hossein Dehghan"
-}
-{
-  "honorific_prefix": "Sardar",
-  "name": "Ahmad Vahidi",
-  "image": "Ahmad Vahidi 2022.jpeg",
-  "caption": "Vahidi in 2022",
-  "allegiance": "Iran",
-  "branch": "Revolutionary Guards",
-  "serviceyears": "1980–2021",
-  "rank": "Brigadier general",
-  "commands": "Quds Force",
-  "battles": "Iran–Iraq War"
 }
