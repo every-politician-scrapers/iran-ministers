@@ -2,6 +2,7 @@
   "honorific_prefix": "Amir",
   "name": "Mohammad-Reza Gharaei Ashtiani",
   "image": "محمدرضا قرایی آشتیانی1.jpg",
+  "caption": "Gharaei Ashtiani in 2021",
   "birth_date": "c. undefined 1960",
   "birth_place": "Tehran, Iran",
   "allegiance": "Iran",
@@ -10,8 +11,14 @@
   "rank": "Brigadier general",
   "unit": "23rd Takavar Division\n\nImam Ali Officers' Academy",
   "battles": "Kurdish rebellion\n\nIran–Iraq War",
-  "office1": "Minister of Defence",
-  "term_start1": "25 August 2021",
-  "president1": "Ebrahim Raisi",
-  "predecessor1": "Amir Hatami"
+  "office1": "Deputy Chief of the General Staff of the Armed Forces of the Islamic Republic of Iran",
+  "term_start1": "2 July 2019",
+  "term_end1": "19 September 2021",
+  "predecessor1": "Ataollah Salehi",
+  "successor1": "Aziz Nasirzadeh",
+  "alma_mater": "Imam Ali Officers' Academy\nAJA University of Command and Staff\nSupreme National Defense University",
+  "office": "Minister of Defence",
+  "termstart": "25 August 2021",
+  "predecessor": "Amir Hatami",
+  "president": "Ebrahim Raisi"
 }
