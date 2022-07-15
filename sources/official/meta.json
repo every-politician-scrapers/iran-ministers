@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Iran",
+      "id": "Q794"
+    },
+    "cabinet": {
+      "id": "Q107326691",
+      "start": "2021-08-03",
+      "parent": "Q17175093"
+    },
+    "source": {
+        "url":   "https://www.president.ir/en/president/cabinet",
+        "title": "cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/iran-ministers"
+}
