@@ -1,0 +1,205 @@
+{
+  "title": "Shahram Irani",
+  "pageID": 69494806,
+  "categories": [
+    "Living people",
+    "Islamic Republic of Iran Navy commodores",
+    "Commanders of Islamic Republic of Iran Navy",
+    "1968 births",
+    "Iranian commodores",
+    "People from Sanandaj"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shahram Irani is an Iranian military officer and the current Commander of the Iranian Navy, appointed since 17 August 2021, replacing Hossein Khanzadi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commander of the Iranian Navy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hossein Khanzadi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Shahram Irani"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Commander of the Iranian Navy",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "شهرام ایرانی"
+          ],
+          "date": "December 2021",
+          "template": "expand persian"
+        },
+        {
+          "birth_year": "1968",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "شهرام ایرانی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Amir",
+            "links": [
+              {
+                "text": "Amir",
+                "type": "internal",
+                "page": "Amir (Iranian Army)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Shahram Irani"
+          },
+          "image": {
+            "text": "Shahram Irani 1400.jpeg"
+          },
+          "image_size": {
+            "text": "250px"
+          },
+          "caption": {
+            "text": "Irani in 2021"
+          },
+          "birth_date": {
+            "text": "1968 (age 54)"
+          },
+          "birth_place": {
+            "text": "Sanandaj, Imperial State of Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanandaj"
+              },
+              {
+                "text": "Imperial State of Iran",
+                "type": "internal",
+                "page": "Pahlavi Iran"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Iran"
+          },
+          "branch": {
+            "text": "Islamic Republic of Iran Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Islamic Republic of Iran Army"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Commodore",
+            "links": [
+              {
+                "text": "Commodore",
+                "type": "internal",
+                "page": "Commodore (rank)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Islamic Republic of Iran Navy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Islamic Republic of Iran Navy"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Naval University of Noshahr\n\nUniversity of Command and Staff",
+            "links": [
+              {
+                "text": "Naval University of Noshahr",
+                "type": "internal",
+                "page": "Imam Khomeini Naval University of Noshahr"
+              },
+              {
+                "text": "University of Command and Staff",
+                "type": "internal",
+                "page": "AJA University of Command and Staff"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.tehrantimes.com/news/464860/Navy-chief-Iranian-Navy-can-be-present-at-all-open-seas",
+          "title": "Navy chief: Iranian Navy can be present at all open seas",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aa.com.tr/en/middle-east/iran-appoints-first-sunni-high-ranking-commander-as-navy-chief/2338442",
+          "title": "Iran appoints first Sunni high-ranking commander as Navy chief",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Hossein Khanzadi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Commander of the Islamic Republic of Iran Navy",
+          "years": "2021–",
+          "template": "s-ttl"
+        },
+        {
+          "after": "-",
+          "template": "s-aft"
+        },
+        {
+          "template": "commanders of the iranian navy"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "iran-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}

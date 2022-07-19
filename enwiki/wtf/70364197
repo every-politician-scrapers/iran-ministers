@@ -1,0 +1,204 @@
+{
+  "title": "Mohammad Mehdi Esmaili",
+  "pageID": 70364197,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "People from Hamadan Province",
+    "Government ministers of Iran"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Mehdi Esmaili born in 1975, Hamedan, is the Minister of Culture of Iran.",
+              "links": [
+                {
+                  "text": "Hamedan",
+                  "type": "internal",
+                  "page": "Hamadan province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iran"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Mehdi Esmaili"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1975",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "محمد مهدی اسماعیلی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohammad Mehdi Esmaili"
+          },
+          "image": {
+            "text": "محمدمهدی اسماعیلی.jpg"
+          },
+          "office": {
+            "text": "Minister of Culture and Islamic Guidance",
+            "links": [
+              {
+                "text": "Minister of Culture and Islamic Guidance",
+                "type": "internal",
+                "page": "Ministry of Culture and Islamic Guidance (Iran)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 August 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Abbas Salehi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abbas Salehi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1975 (age 47)"
+          },
+          "birth_place": {
+            "text": "Kabudarahang, Hamedan Province, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kabudarahang"
+              },
+              {
+                "type": "internal",
+                "page": "Hamedan Province"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://culturalforum.ru/en/participants/mohammad-mehdi-esmaili",
+          "title": "Mohammad Mehdi Esmaili",
+          "website": "culturalforum.ru",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tehrantimes.com/news/468118/Culture-minister-Esmaeili-Romanian-envoy-Mirela-Grecu-meet",
+          "title": "Culture minister Esmaeili, Romanian envoy Mirela Grecu meet",
+          "date": "December 15, 2021",
+          "website": "Tehran Times",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://iranpress.com/content/55978/iran-culture-minister-meets-lebanese-officials",
+          "title": "Iran's Culture Minister meets Lebanese officials",
+          "website": "iranpress.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://en.imna.ir/news/529923/Minister-of-Culture-and-Islamic-Guidance-message-to-TISFF-Cinema",
+          "title": "Minister of Culture and Islamic Guidance message to TISFF: Cinema the dominant narrator of reality and truth",
+          "date": "October 19, 2021",
+          "website": "IMNA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://iqna.ir/en/news/3478228",
+          "title": "Members of Tehran Int'l Quran Expo's Policy-Making Council Appointed",
+          "date": "March 19, 2022",
+          "website": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://en.irna.ir/news/84669233/Rich-history-approximates-Iran-Lebanon-Culture-minister",
+          "title": "Rich history approximates Iran, Lebanon: Culture minister",
+          "date": "March 3, 2022",
+          "website": "IRNA English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "state": "collapsed",
+          "template": "ministers of culture and islamic guidance of iran"
+        },
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "template": "iran-politician-stub"
+        },
+        {
+          "date": "July 2022",
+          "template": "improve categories"
+        }
+      ]
+    }
+  ]
+}

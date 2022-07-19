@@ -1,0 +1,291 @@
+{
+  "title": "Javad Sadatinejad",
+  "pageID": 70364145,
+  "categories": [
+    "1972 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Seyed Javad Sadatinejad (, born 1972, Kashan, Iran) is an Iranian politician and representative of the tenth and eleventh terms of the Islamic Parliament of Iran and Minister of Agriculture in the government of Ebrahim Raisi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kashan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ebrahim Raisi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Seyed Javad Sadatinejad"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "fa",
+          "otherarticle": "سید جواد ساداتی‌نژاد",
+          "date": "July 2022",
+          "template": "expand language"
+        },
+        {
+          "birth_year": "1972",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "سید جواد ساداتی‌نژاد"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Javad Sadatinejad"
+          },
+          "image": {
+            "text": "Drsadatinejad.jpg"
+          },
+          "caption": {
+            "text": "Official Portrait in 2021"
+          },
+          "office1": {
+            "text": "Minister of Agriculture Jihad",
+            "links": [
+              {
+                "text": "Minister of Agriculture Jihad",
+                "type": "internal",
+                "page": "Ministry of Agriculture Jihad"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 August 2021"
+          },
+          "president1": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Kazem Khavazi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kazem Khavazi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Parliament of Iran",
+            "links": [
+              {
+                "text": "Member of the Parliament of Iran",
+                "type": "internal",
+                "page": "Parliament of Iran"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 May 2016"
+          },
+          "term_end2": {
+            "text": "25 August 2021"
+          },
+          "constituency2": {
+            "text": "Kashan and Aran o Bidgol",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kashan"
+              },
+              {
+                "type": "internal",
+                "page": "Aran o Bidgol"
+              }
+            ]
+          },
+          "majority2": {
+            "text": "88,946 (65.6%)"
+          },
+          "office3": {
+            "text": "President of University of Kashan",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President (education)"
+              },
+              {
+                "type": "internal",
+                "page": "University of Kashan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end3": {
+            "text": "2011",
+            "number": 2011
+          },
+          "president3": {
+            "text": "Mahmoud Ahmadinejad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Ahmadinejad"
+              }
+            ]
+          },
+          "appointer3": {
+            "text": "Mohammad Mehdi Zahedi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Mehdi Zahedi"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Hassan Daghigh"
+          },
+          "successor3": {
+            "text": "Abbas Ketabi"
+          },
+          "birth_date": {
+            "text": "1972 (age 50)"
+          },
+          "birth_place": {
+            "text": "Kashan, Isfahan Province",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kashan"
+              },
+              {
+                "type": "internal",
+                "page": "Isfahan Province"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sari Agricultural Sciences and Natural Resources University Tarbiat Modares University Moscow State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sari Agricultural Sciences and Natural Resources University"
+              },
+              {
+                "type": "internal",
+                "page": "Tarbiat Modares University"
+              },
+              {
+                "type": "internal",
+                "page": "Moscow State University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://en.irna.ir/news/84523550/Agriculture-Minister-Iran-can-be-region-s-agricultural-hub",
+          "title": "Agriculture Minister: Iran can be region's agricultural hub",
+          "date": "October 30, 2021",
+          "website": "IRNA English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tehrantimes.com/news/467330/Iran-Belarus-discuss-expansion-of-agricultural-ties",
+          "title": "Iran, Belarus discuss expansion of agricultural ties",
+          "date": "November 23, 2021",
+          "website": "Tehran Times",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://iranpress.com/content/47144/iran-razi-institute-pioneer-vaccine-export-minister",
+          "title": "Iran's Razi institute pioneer in vaccine export: Minister",
+          "website": "iranpress.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://en.mehrnews.com/amp/183974/",
+          "title": "Brazilian Agriculture min. due in Tehran for bilateral talks - Mehr News Agency",
+          "website": "en.mehrnews.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tasnimnews.com/en/news/2021/11/07/2603677/iran-pakistan-discuss-barter-of-agricultural-products",
+          "title": "Iran, Pakistan Discuss Barter of Agricultural Products - Economy news",
+          "website": "Tasnim News Agency",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "date": "April 2022",
+          "template": "improve categories"
+        },
+        {
+          "template": "iran-politician-stub"
+        }
+      ]
+    }
+  ]
+}

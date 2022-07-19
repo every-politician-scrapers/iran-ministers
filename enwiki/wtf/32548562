@@ -1,0 +1,604 @@
+{
+  "title": "Rostam Ghasemi",
+  "pageID": 32548562,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Islamic Revolutionary Guard Corps brigadier generals",
+    "Oil ministers of Iran",
+    "Popular Front of Islamic Revolution Forces politicians",
+    "Islamic Revolutionary Guard Corps personnel of the Iran–Iraq War",
+    "Iranian individuals subject to the U.S. Department of the Treasury sanctions",
+    "Quds Force personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rostam Qasemi (, born 5 May 1964) is an Iranian military officer and conservative politician who is the current Minister of Roads and Urban Development since August 25, 2021.",
+              "links": [
+                {
+                  "text": "conservative",
+                  "type": "internal",
+                  "page": "conservative"
+                },
+                {
+                  "text": "Minister of Roads and Urban Development",
+                  "type": "internal",
+                  "page": "Ministry of Roads and Urban Development (Iran)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rostam Qasemi"
+                ]
+              }
+            },
+            {
+              "text": "He was minister of petroleum from 3 August 2011 to 15 August 2013.",
+              "links": [
+                {
+                  "text": "minister of petroleum",
+                  "type": "internal",
+                  "page": "Ministry of Petroleum (Iran)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian military officer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1964",
+          "month": "5",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Iran–Iraq War",
+            "Syrian Civil War",
+            "Yemeni Civil War"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "رستم قاسمی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office1": {
+            "text": "Minister of Roads and Urban Development",
+            "links": [
+              {
+                "text": "Minister of Roads and Urban Development",
+                "type": "internal",
+                "page": "Ministry of Roads and Urban Development (Iran)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 August 2021"
+          },
+          "predecessor1": {
+            "text": "Mohammad Eslami",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Eslami"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Petroleum",
+            "links": [
+              {
+                "text": "Minister of Petroleum",
+                "type": "internal",
+                "page": "Ministry of Petroleum (Iran)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 August 2011"
+          },
+          "term_end2": {
+            "text": "15 August 2013"
+          },
+          "predecessor2": {
+            "text": "Mohammad Aliabadi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Aliabadi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Bijan Namdar Zangeneh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bijan Namdar Zangeneh"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Mahmoud Ahmadinejad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Ahmadinejad"
+              }
+            ]
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Sardar",
+            "links": [
+              {
+                "text": "Sardar",
+                "type": "internal",
+                "page": "Sardar (IRGC)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rostam Ghasemi"
+          },
+          "image": {
+            "text": "Rostam Ghasemi 14000229000490637570261902648772.jpg"
+          },
+          "birth_date": {
+            "text": "May 5, 1964"
+          },
+          "birth_place": {
+            "text": "Sargah, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sargah"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "Islamic Revolutionary Guard Corps",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Islamic Revolutionary Guard Corps"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Quds Force (2013–2020)\n\nNavy (1990s)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quds Force"
+              },
+              {
+                "text": "Navy",
+                "type": "internal",
+                "page": "Islamic Revolutionary Guard Corps Navy"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1979–2011; 2013–2020"
+          },
+          "rank": {
+            "text": "Brigadier general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigadier general"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Khatam-al Anbiya Headquarter",
+            "links": [
+              {
+                "text": "Khatam-al Anbiya Headquarter",
+                "type": "internal",
+                "page": "Khatam-al Anbiya"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Iran–Iraq War\n\nSyrian Civil War\n\nYemeni Civil War"
+          },
+          "awards": {
+            "text": "Order of Khedmat.png Order of Service (2nd class)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Service"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Sharif University of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sharif University of Technology"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ghasemi was born on 5 May 1964 in Sargah village, Shiraz, Fars Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shiraz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fars Province"
+                }
+              ]
+            },
+            {
+              "text": "His father was a businessman and politician, and served as the governor of the Fars Province from 1980 to 1988."
+            },
+            {
+              "text": "He graduated from Sharif University of Technology, studying in civil engineering.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sharif University of Technology"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Alfoneh",
+          "first": "Ali",
+          "title": "Iran's Revolutionary Guards Strike Oil",
+          "journal": "The Middle East Quarterly",
+          "date": "Winter 2012",
+          "volume": "XIX",
+          "issue": "1",
+          "pages": "75–78",
+          "url": "http://www.meforum.org/3153/iran-revolutionary-guards-strike-oil",
+          "accessdate": "29 July 2013",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "162nd Ordinary Meeting",
+          "url": "http://www.opec.org/opec_web/static_files_project/media/downloads/press_room/PressBack.pdf",
+          "publisher": "OPEC",
+          "accessdate": "17 February 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100702195547/http://www.opec.org/opec_web/static_files_project/media/downloads/press_room/PressBack.pdf",
+          "archive-date": "2 July 2010",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ghasemi joined the Islamic Revolutionary Guard Corps (IRGC) in Kharg Island in 1979.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Islamic Revolutionary Guard Corps"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kharg Island"
+                }
+              ]
+            },
+            {
+              "text": "He participated in the Iran-Iraq War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iran-Iraq War"
+                }
+              ]
+            },
+            {
+              "text": "After the war, he joined the Khatam-al Anbia troops in Bushehr, the Guards' engineering and construction company.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bushehr"
+                }
+              ]
+            },
+            {
+              "text": "In 1996, he was named head of the IRGC navy's Nouh base."
+            },
+            {
+              "text": "Ghasemi became deputy commander of the troops in 2001."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was the chair of the IRGC-affiliated Khatam-al Anbiya Construction Headquarters from 2007 to 2011.",
+              "links": [
+                {
+                  "text": "Khatam-al Anbiya",
+                  "type": "internal",
+                  "page": "Khatam-al Anbiya Construction Headquarters"
+                }
+              ]
+            },
+            {
+              "text": "He retired from the military in August 2011."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 July 2011, he was nominated as oil minister by Mahmoud Ahmadinejad to succeed Masoud Mir Kazemi.",
+              "links": [
+                {
+                  "text": "oil minister",
+                  "type": "internal",
+                  "page": "Ministry of Petroleum (Iran)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mahmoud Ahmadinejad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Masoud Mir Kazemi"
+                }
+              ]
+            },
+            {
+              "text": "He was approved by the parliament on 3 August 2011, being the fourth oil minister in the Ahmedinejad government."
+            },
+            {
+              "text": "He received 216 for votes of the 246 Majlis members."
+            },
+            {
+              "text": "He was the president of the OPEC for 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "OPEC"
+                }
+              ]
+            },
+            {
+              "text": "Ghasemi's tenure as oil minister ended on 15 August 2013 and he was replaced by Bijan Namdar Zanganeh in the post.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bijan Namdar Zanganeh"
+                }
+              ]
+            },
+            {
+              "text": "Shortly after leaving office Ghasemi was appointed advisor to Defense Minister Hossein Dehghan on 22 August.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hossein Dehghan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2017",
+          "template": "fact"
+        },
+        {
+          "date": "August 2017",
+          "template": "fact"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Ex-Iranian Oil Minister Qasemi appointed advisor to Defense Minister",
+          "url": "http://ilna.ir/en/news/news.cfm?id=1195",
+          "accessdate": "13 September 2013",
+          "work": "ILNA",
+          "date": "22 August 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20131016045409/http://ilna.ir/en/news/news.cfm?id=1195",
+          "archive-date": "16 October 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Alizadeh",
+          "first": "Hossein",
+          "title": "The Best Government from Constitutional Revolution to Date!",
+          "url": "http://iranbriefing.net/?p=8321",
+          "work": "Iran Briefing",
+          "accessdate": "28 July 2013",
+          "date": "16 August 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Former Iranian Oil Minister Qasemi appointed advisor to Defense Minister",
+          "url": "http://en.trend.az/regions/iran/2181503.html",
+          "accessdate": "24 August 2013",
+          "work": "Trend",
+          "date": "22 August 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Sanctions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ghasemi was included in the EU sanction list."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Iran names Guards commander Rostam Qasemi oil minister",
+          "url": "https://www.bbc.co.uk/news/world-middle-east-14393406",
+          "accessdate": "13 September 2013",
+          "publisher": "BBC News",
+          "date": "3 August 2011",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "33em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Masoud Mir Kazemi",
+          "title": "Minister of Petroleum",
+          "years": "2011–2013",
+          "after": "Bijan Namdar Zanganeh",
+          "template": "succession box"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Abdolreza Abed",
+          "template": "s-bef"
+        },
+        {
+          "title": "Commander of the Khatam-al Anbiya Construction Headquarters",
+          "years": "2007–2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Abolghasem Mozaffari",
+          "template": "s-aft"
+        },
+        {
+          "template": "iran petroleum ministers"
+        },
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "template": "ahmadinejad cabinet"
+        },
+        {
+          "template": "iran-politician-stub"
+        }
+      ]
+    }
+  ]
+}

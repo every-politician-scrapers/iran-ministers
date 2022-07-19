@@ -1,0 +1,243 @@
+{
+  "title": "Gholam-Hossein Esmaeili",
+  "pageID": 70285632,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "20th-century Iranian lawyers",
+    "21st-century Iranian judges",
+    "Presidential aides of Iran"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gholam-Hossein Esmaeili (Persian: غلامحسین اسماعیلی, born 1965) is an Iranian lawyer and politician.",
+              "formatting": {
+                "bold": [
+                  "Gholam-Hossein Esmaeili"
+                ]
+              }
+            },
+            {
+              "text": "He is chief of staff of the president of Iran from 8 August 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Spokesman of Judicial system of the Islamic Republic of Iran from 2019 until 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Judicial system of the Islamic Republic of Iran"
+                }
+              ]
+            },
+            {
+              "text": "He served as Tehran Province’s chief justice from 24 April 2014 until 4 August 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian lawyer and politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gholam-Hossein Esmaeili"
+          },
+          "image": {
+            "text": "GH Esmaieli.jpg"
+          },
+          "office1": {
+            "text": "Head of President's Office",
+            "links": [
+              {
+                "text": "President's Office",
+                "type": "internal",
+                "page": "Presidential Administration of Iran"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 August 2021"
+          },
+          "president1": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mahmoud Vaezi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahmoud Vaezi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Spokesman of Judicial system of the Islamic Republic of Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Judicial system of the Islamic Republic of Iran"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 April 2019"
+          },
+          "term_end2": {
+            "text": "8 August 2021"
+          },
+          "appointer2": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Gholam-Hossein Mohseni-Eje'i",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gholam-Hossein Mohseni-Eje'i"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Zabihollah Khodaeian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zabihollah Khodaeian"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Tehran Province’s chief justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tehran Province"
+              }
+            ]
+          },
+          "appointer3": {
+            "text": "Sadeq Larijani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sadeq Larijani"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Alireza Avayi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alireza Avayi"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Mohammad Javad Heshmati"
+          },
+          "term_start3": {
+            "text": "24 April 2014"
+          },
+          "term_end3": {
+            "text": "4 August 2019"
+          },
+          "birth_date": {
+            "text": "1965,(age 57)"
+          },
+          "birth_place": {
+            "text": "Birjand, south Khorasan Province",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Birjand"
+              },
+              {
+                "text": "south Khorasan Province",
+                "type": "internal",
+                "page": "south Khorasan Province"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iranian peoples"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://tn.ai/2551097",
+          "title": "Iran's Raisi Picks Vice President, Chief of Staff - Politics news",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Gholam-Hossein Esmaili named Judiciary spokesman",
+          "url": "https://www.tehrantimes.com/news/434466/",
+          "agency": "TEHRAN TIMES",
+          "date": "April 8, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "template": "iran-politician-stub"
+        }
+      ]
+    }
+  ]
+}

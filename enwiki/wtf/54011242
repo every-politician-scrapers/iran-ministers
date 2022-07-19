@@ -1,0 +1,305 @@
+{
+  "title": "Mohammad Dehghan",
+  "pageID": 54011242,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "University of Tehran alumni",
+    "Members of the 7th Islamic Consultative Assembly",
+    "Members of the 8th Islamic Consultative Assembly",
+    "Members of the 9th Islamic Consultative Assembly",
+    "Members of the 10th Islamic Consultative Assembly",
+    "Islamic Revolutionary Guard Corps officers",
+    "Society of Pathseekers of the Islamic Revolution politicians",
+    "Secretaries-General of political parties in Iran",
+    "Iranian campaign managers",
+    "Members of the Guardian Council"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Dehghan (born January 1963) is an Iranian conservative politician, who is currently serving as the vice president for legal affairs in the administration of President Ebrahim Raisi.",
+              "links": [
+                {
+                  "text": "vice president",
+                  "type": "internal",
+                  "page": "Vice President of Iran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ebrahim Raisi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Dehghan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is also former jurist member of Guardian Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guardian Council"
+                }
+              ]
+            },
+            {
+              "text": "He was member of Parliament from Chenaran, Torghabeh and Shandiz district.",
+              "links": [
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Iranian Parliament"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chenaran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Torghabeh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shandiz"
+                }
+              ]
+            },
+            {
+              "text": "He was also acting deputy chairman of the parliament in May 2016."
+            },
+            {
+              "text": "He was chairman of Mohammad Bagher Ghalibaf's 2017 presidential campaign.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohammad Bagher Ghalibaf"
+                },
+                {
+                  "text": "2017 presidential campaign",
+                  "type": "internal",
+                  "page": "Mohammad Bagher Ghalibaf presidential campaign, 2017"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian conservative politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1963",
+          "birth_month": "01",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "محمد دهقان"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Mohammad Dehghan.jpg"
+          },
+          "name": {
+            "text": "Mohammad Dehghan"
+          },
+          "order": {
+            "text": "Vice President of Iran for Legal Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice President of Iran"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 September 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Laya Joneydi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Laya Joneydi"
+              }
+            ]
+          },
+          "order1": {
+            "text": "Member of the Parliament of Iran",
+            "links": [
+              {
+                "text": "Member of the Parliament of Iran",
+                "type": "internal",
+                "page": "Parliament of Iran"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 May 2004"
+          },
+          "term_end1": {
+            "text": "16 July 2019"
+          },
+          "majority1": {
+            "text": "84,049 (25.9%)"
+          },
+          "constituency1": {
+            "text": "Chenaran, Torghabeh and Shandiz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chenaran"
+              },
+              {
+                "type": "internal",
+                "page": "Torghabeh"
+              },
+              {
+                "type": "internal",
+                "page": "Shandiz"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 1963 (age 59)"
+          },
+          "birth_place": {
+            "text": "Torghabeh, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Torghabeh"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iranian peoples"
+              }
+            ]
+          },
+          "party": {
+            "text": "Society of Pathseekers of the Islamic Revolution",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Society of Pathseekers of the Islamic Revolution"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tehran University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tehran University"
+              }
+            ]
+          },
+          "website": {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://drmdehghan.ir/home/%D9%85%D8%AD%D9%85%D8%AF-%D8%AF%D9%87%D9%82%D8%A7%D9%86/"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://rc.majlis.ir/fa/parliament_member/show/760001",
+          "publisher": "rc.majlis.ir",
+          "title": "مرکز پژوهشها - محمد دهقان &#124; Profile",
+          "accessdate": "2017-05-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Parviz Sorouri",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary-General of Society of Pathseekers of the Islamic Revolution",
+          "years": "2018–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Behzad Zare",
+          "template": "s-aft"
+        },
+        {
+          "before": "Hossein Mozaffar",
+          "template": "s-bef"
+        },
+        {
+          "title": "Campaign manager of Mohammad-Bagher Ghalibaf",
+          "years": "2017",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "template": "iran-politician-stub"
+        }
+      ]
+    }
+  ]
+}

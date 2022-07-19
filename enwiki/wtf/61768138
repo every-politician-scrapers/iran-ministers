@@ -1,0 +1,214 @@
+{
+  "title": "Bahram Ghasemi",
+  "pageID": 61768138,
+  "categories": [
+    "Iranian diplomats",
+    "Living people",
+    "1956 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bahram Ghasemi is an Iranian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Bahram Ghasemi"
+                ]
+              }
+            },
+            {
+              "text": "He is a former Spokesperson for the Ministry of Foreign Affairs of Iran.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Spokesperson for the Ministry of Foreign Affairs of Iran"
+                }
+              ]
+            },
+            {
+              "text": "He has been ambassador of Iran to France since 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "-"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bahram Ghasemi"
+          },
+          "image": {
+            "text": "Bahram Ghasemi (01).jpg"
+          },
+          "order": {
+            "text": "Ambassador of Iran to the France",
+            "links": [
+              {
+                "type": "internal",
+                "page": "France"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2019",
+            "number": 2019
+          },
+          "president": {
+            "text": "Hassan RouhaniEbrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassan Rouhani"
+              },
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Spokesperson for the Ministry of Foreign Affairs of Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Spokesperson for the Ministry of Foreign Affairs of Iran"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "19 June 2016"
+          },
+          "term_end2": {
+            "text": "12 April 2019"
+          },
+          "order3": {
+            "text": "ambassdor of Iran to Italy"
+          },
+          "term_start3": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end3": {
+            "text": "2006",
+            "number": 2006
+          },
+          "order4": {
+            "text": "ambassdor of Iran to Spain"
+          },
+          "term_start4": {
+            "text": "1993",
+            "number": 1993
+          },
+          "term_end4": {
+            "text": "1998",
+            "number": 1998
+          },
+          "office5": {
+            "text": "ambassdor of Iran to Ireland"
+          },
+          "term_start5": {
+            "text": "1987",
+            "number": 1987
+          },
+          "term_end5": {
+            "text": "1990",
+            "number": 1990
+          },
+          "birth_date": {
+            "text": "1956",
+            "number": 1956
+          },
+          "birth_place": {
+            "text": "Borujerd, iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Borujerd"
+              },
+              {
+                "text": "iran",
+                "type": "internal",
+                "page": "iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "iran",
+            "links": [
+              {
+                "text": "iran",
+                "type": "internal",
+                "page": "iran"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "diplomat",
+            "links": [
+              {
+                "text": "diplomat",
+                "type": "internal",
+                "page": "diplomat"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://fr.paris.mfa.ir/index.aspx?fkeyid=&siteid=384&pageid=17873",
+          "title": "Ambassadeur",
+          "work": "embassy of Iran in France",
+          "language": "French",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://en.mehrnews.com/news/117473/Zarif-brings-changes-to-FM",
+          "title": "Zarif brings changes to FM",
+          "work": "Mehr news",
+          "language": "English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://en.mehrnews.com/news/143206/Iran-appoints-Bahram-Ghasemi-as-amb-to-France",
+          "title": "Iran appoints Bahram Ghasemi as amb. to France",
+          "work": "Mehr news",
+          "language": "English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://iranpress.com/en/iran-i133036-iran's_foreign_ministry_spokesman_appointed_as_ambassador_to_france",
+          "title": "Iran's Foreign Ministry spokesman appointed as ambassador to France",
+          "work": "Iran press",
+          "language": "English",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "iran-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

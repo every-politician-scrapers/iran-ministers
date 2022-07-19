@@ -1,0 +1,209 @@
+{
+  "title": "Saleh Adibi",
+  "pageID": 53022743,
+  "categories": [
+    "Living people",
+    "Iranian diplomats",
+    "Islamic Azad University faculty",
+    "University of Tehran alumni",
+    "People from Sanandaj",
+    "Iranian Kurdish politicians",
+    "Iranian Sunni Muslims",
+    "Ambassadors of Iran to Vietnam",
+    "Ambassadors of Iran to Cambodia",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Saleh Adibi is an Iranian academic and diplomat currently serving as Iran's extraordinary and plenipotentiary ambassador to Vietnam and accredited non-resident ambassador to Cambodia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vietnam"
+                },
+                {
+                  "text": "accredited",
+                  "type": "internal",
+                  "page": "Diplomatic accreditation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Saleh Adibi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Adibi is the first ethnic Kurdish and the first Sunni ambassador in Iran.",
+              "links": [
+                {
+                  "text": "Kurdish",
+                  "type": "internal",
+                  "page": "Iranian Kurds"
+                },
+                {
+                  "text": "Sunni",
+                  "type": "internal",
+                  "page": "Sunni Islam in Iran"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian academic and diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "age": "51",
+          "year": "2015",
+          "month": "9",
+          "day": "3",
+          "template": "birth based on age as of date"
+        },
+        {
+          "list": [
+            "صالح ادیبی"
+          ],
+          "template": "lang-fa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Sadibi1.jpg"
+          },
+          "name": {
+            "text": "Saleh Adibi"
+          },
+          "order": {
+            "text": "Ambassador to Vietnam and Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vietnam"
+              },
+              {
+                "type": "internal",
+                "page": "Cambodia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 September 2015"
+          },
+          "1blankname": {
+            "text": "Minister"
+          },
+          "1namedata": {
+            "text": "Mohammad Javad Zarif",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammad Javad Zarif"
+              }
+            ]
+          },
+          "president": {
+            "text": "Hassan Rouhani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassan Rouhani"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1964 (age 51)"
+          },
+          "birth_place": {
+            "text": "Sanandaj, Kurdistan, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sanandaj"
+              },
+              {
+                "text": "Kurdistan",
+                "type": "internal",
+                "page": "Kurdistan Province"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tehran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tehran"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://cambodiatribune.com/heavily-shiite-iran-names-its-first-sunni-ambassador-dpa-german-press-agency/",
+          "title": "Heavily Shiite Iran names its first Sunni ambassador",
+          "work": "Cambodia Tribune",
+          "date": "3 September 2015",
+          "accessdate": "2 January 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.irna.ir/en/News/81762382/",
+          "title": "First ever Sunni diplomat named Iran ambassador to Hanoi",
+          "work": "IRNA",
+          "date": "16 September 2015",
+          "accessdate": "2 January 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "iran-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "title": "Mohammad Eslami",
+  "pageID": 70364167,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "21st-century Iranian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mohammad Eslami (Persian: محمد اسلامی; born 23 September 1956) is the Vice President and Head of the Atomic Energy Organization in the government of President Raisi and was the Minister of Roads and Urban development and the Governor of Mazandaran in the government of President Rouhani.",
+              "links": [
+                {
+                  "text": "Head of the Atomic Energy Organization",
+                  "type": "internal",
+                  "page": "Atomic Energy Organization of Iran"
+                },
+                {
+                  "text": "President Raisi",
+                  "type": "internal",
+                  "page": "Ebrahim Raisi"
+                },
+                {
+                  "text": "Minister of Roads and Urban development",
+                  "type": "internal",
+                  "page": "Ministry of Roads and Urban Development"
+                },
+                {
+                  "text": "Mazandaran",
+                  "type": "internal",
+                  "page": "Mazandaran province"
+                },
+                {
+                  "text": "President Rouhani",
+                  "type": "internal",
+                  "page": "Hassan Rouhani"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mohammad Eslami"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Iranian politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "fa",
+          "otherarticle": "محمد اسلامی",
+          "date": "July 2022",
+          "template": "expand language"
+        },
+        {
+          "year": "1956",
+          "month": "09",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mohammad Eslami Varnamkhasti"
+          },
+          "image": {
+            "text": "1398082311524988018890884 محمد اسلامی.jpg"
+          },
+          "caption": {
+            "text": "Eslami in 2019"
+          },
+          "office": {
+            "text": "7th Head of the Atomic Energy Organization",
+            "links": [
+              {
+                "text": "Head of the Atomic Energy Organization",
+                "type": "internal",
+                "page": "Atomic Energy Organization of Iran"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 August 2021"
+          },
+          "president": {
+            "text": "Ebrahim Raisi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ebrahim Raisi"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ali Akbar Salehi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ali Akbar Salehi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Roads and Urban Development",
+            "links": [
+              {
+                "text": "Minister of Roads and Urban Development",
+                "type": "internal",
+                "page": "Ministry of Roads and Urban Development (Iran)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "28 October 2018"
+          },
+          "term_end1": {
+            "text": "25 August 2021"
+          },
+          "president1": {
+            "text": "Hassan Rouhani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassan Rouhani"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Abbas Ahmad Akhoundi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abbas Ahmad Akhoundi"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Rostam Ghasemi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rostam Ghasemi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor-general of Mazandaran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor-general"
+              },
+              {
+                "type": "internal",
+                "page": "Mazandaran"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 October 2017"
+          },
+          "term_end2": {
+            "text": "20 October 2018"
+          },
+          "president2": {
+            "text": "Hassan Rouhani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassan Rouhani"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Rabi Fallah Jelodar"
+          },
+          "successor2": {
+            "text": "Ahmad Hosseinzadegan"
+          },
+          "birth_date": {
+            "text": "September 23, 1956"
+          },
+          "birth_place": {
+            "text": "Isfahan, Iran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isfahan"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Iranian",
+            "links": [
+              {
+                "text": "Iranian",
+                "type": "internal",
+                "page": "Iranian peoples"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Detroit Mercy\nOhio University\nRoyal Roads University\nSharif University of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Detroit Mercy"
+              },
+              {
+                "type": "internal",
+                "page": "Ohio University"
+              },
+              {
+                "type": "internal",
+                "page": "Royal Roads University"
+              },
+              {
+                "type": "internal",
+                "page": "Sharif University of Technology"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/irans-eslami-moscow-nuclear-cooperation-talks-report-2021-09-28/",
+          "title": "Iran's Eslami in Moscow for nuclear cooperation talks -report",
+          "newspaper": "Reuters",
+          "date": "September 28, 2021",
+          "via": "www.reuters.com",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.indiatoday.in/amp/world/story/iran-appoints-mohammad-eslami-head-of-nuclear-agency-1846892-2021-08-30",
+          "title": "Iran appoints ex-transport minister Mohammad Eslami as head of nuclear agency",
+          "website": "India Today",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://iranpress.com/content/52706/iran-nuclear-facilities-are-under-reliable-protection-nuclear-chief",
+          "title": "Iran's nuclear facilities are under reliable protection: Nuclear chief",
+          "website": "iranpress.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://en.irna.ir/news/84671546/AEOI-Chief-Political-penetration-lobbying-should-not-affect",
+          "title": "AEOI Chief: Political penetration, lobbying should not affect IAEA decisions",
+          "date": "March 5, 2022",
+          "website": "IRNA English",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.iranwatch.org/iranian-entities/mohammad-eslami",
+          "title": "Mohammad Eslami &#124; Iran Watch",
+          "website": "www.iranwatch.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://en.mehrnews.com/news/184515/AEOI-IAEA-chiefs-hold-meeting-in-Tehran",
+          "title": "AEOI, IAEA chiefs hold meeting in Tehran",
+          "date": "March 5, 2022",
+          "website": "Mehr News Agency",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ilna.news/Section-politics-3/1141679-mohammad-eslami-more-than-kg-of-uranium-enriched-to",
+          "title": "Mohammad Eslami: More than 120kg of uranium enriched to 20%",
+          "website": "ILNA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://irdiplomacy.ir/en/news/2006067/mohammad-eslami-appointed-iran-s-nuclear-chief",
+          "title": "Mohammad Eslami appointed Iran's nuclear chief",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tehrantimes.com/news/464470/Mohammad-Eslami-appointed-Iran-s-nuclear-chief",
+          "title": "Mohammad Eslami appointed Iran's nuclear chief",
+          "date": "August 29, 2021",
+          "website": "Tehran Times",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ncr-iran.org/en/news/nuclear/whos-mohammad-eslami-a-totally-irrelevant-choice-or-a-perfect-match/?amp",
+          "title": "Who is Mohammad Eslami: A Totally Irrelevant Choice or a Perfect Match?",
+          "date": "30 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rferl.org/amp/iran-nuclear-talks-grossi/31574879.html",
+          "title": "IAEA Chief Meets Iranian Officials In Push For More Access",
+          "website": "www.rferl.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.timesofisrael.com/topic/mohammad-eslami/",
+          "title": "Mohammad Eslami",
+          "website": "www.timesofisrael.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://timesofindia.indiatimes.com/topic/mohammad-eslami",
+          "title": "mohammad eslami News &#124; Latest News on mohammad eslami - Times of India",
+          "website": "The Times of India",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.unitedagainstnucleariran.com/mohammad-eslami-atomic-energy-organization-of-iran-director",
+          "title": "Mohammad Eslami: Atomic Energy Organization of Iran Director",
+          "website": "UANI",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.iaea.org/newscenter/pressreleases/joint-statement-by-he-mr-mohammad-eslami-vice-president-and-president-of-the-atomic-energy-organization-of-iran-and-he-mr-rafael-grossi-director-general-of-the-international-atomic-energy-agency",
+          "title": "Joint Statement by HE Mr Mohammad Eslami, Vice-President and President of the Atomic Energy Organization of Iran, and HE Mr Rafael Grossi, Director General of the International Atomic Energy Agency",
+          "date": "March 5, 2022",
+          "website": "www.iaea.org",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "raisi cabinet"
+        },
+        {
+          "template": "rouhani cabinet"
+        },
+        {
+          "template": "iran-politician-stub"
+        }
+      ]
+    }
+  ]
+}
