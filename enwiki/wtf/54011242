@@ -23,6 +23,9 @@
         {
           "sentences": [
             {
+              "text": "Mohammad Dehghani Noghondar nicknamed"
+            },
+            {
               "text": "Mohammad Dehghan (born January 1963) is an Iranian conservative politician, who is currently serving as the vice president for legal affairs in the administration of President Ebrahim Raisi.",
               "links": [
                 {
@@ -119,8 +122,11 @@
           "image": {
             "text": "Mohammad Dehghan.jpg"
           },
+          "caption": {
+            "text": "Mohammad Dehghani Noghondar"
+          },
           "name": {
-            "text": "Mohammad Dehghan"
+            "text": "Mohammad Dehghani"
           },
           "order": {
             "text": "Vice President of Iran for Legal Affairs",
@@ -248,7 +254,7 @@
         {
           "url": "http://rc.majlis.ir/fa/parliament_member/show/760001",
           "publisher": "rc.majlis.ir",
-          "title": "مرکز پژوهشها - محمد دهقان &#124; Profile",
+          "title": "مرکز پژوهشها - محمد دهقان(دهقانی نقندر) &#124; Profile",
           "accessdate": "2017-05-10",
           "template": "citation",
           "type": "web"
