@@ -42,7 +42,7 @@
         {
           "sentences": [
             {
-              "text": "Sayyid Ali Hosseini Khamenei (, ; born 16 July 1939) is a Twelver Shia Marja' and the second and current supreme leader of Iran, in office since 1989.",
+              "text": "Sayyid Ali Hosseini Khamenei (, ; born 19 April 1939) is a Twelver Shia Marja' and the second and current supreme leader of Iran, in office since 1989.",
               "links": [
                 {
                   "type": "internal",
@@ -337,6 +337,13 @@
           "year": "1939",
           "month": "7",
           "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "df": "yes",
+          "year": "1939",
+          "month": "4",
+          "day": "19",
           "template": "birth date and age"
         },
         {
@@ -769,7 +776,7 @@
             "text": "Sayyid Ali Hosseini Khameneh"
           },
           "birth_date": {
-            "text": "July 16, 1939"
+            "text": "July 16, 1939 (certificate date)\nApril 19, 1939 (real date)"
           },
           "birth_place": {
             "text": "Mashhad, Khorasan province, Imperial State of Iran",
@@ -917,6 +924,14 @@
           "type": "web"
         },
         {
+          "url": "https://www.mashreghnews.ir/news/558617/روایتی-از-تاریخ-دقیق-تولد-رهبر-انقلاب-از-زبان-معظم-له-عکس",
+          "title": "روایتی از تاریخ دقیق تولد رهبر انقلاب از زبان معظم‌له+عکس",
+          "date": "16 April 2016",
+          "website": "مشرق نیوز",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "http://fararu.com/fa/news/118101/%D8%AC%D8%A7%D9%85%D8%B9%D9%87-%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A%D8%AA-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2-%D8%AC%D9%88%D8%A7%D9%86-%D9%85%D9%8A%E2%80%8C%D8%B4%D9%88%D8%AF",
           "title": "جامعه روحانيت مبارز جوان مي‌شود",
           "language": "fa",
@@ -960,8 +975,18 @@
           "type": "citation"
         },
         {
-          "url": "https://farsi.khamenei.ir/photo-album?id=8799",
-          "title": "تصویری از شناسنامه حضرت آیت‌الله خامنه‌ای",
+          "title": "Ali Khamenei",
+          "url": "https://www.cgie.org.ir/fa/publication/entryview/16337",
+          "website": "CGIE (fa)",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "taking look at the biography of Ali Khamenei",
+          "url": "http://farsi.khamenei.ir/memory-content?id=26142",
+          "website": "khamenei (fa)",
+          "date": "21 March 2014",
+          "access-date": "21 March 2014",
           "template": "citation",
           "type": "web"
         },

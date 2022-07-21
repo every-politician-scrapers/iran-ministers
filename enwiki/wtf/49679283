@@ -3410,10 +3410,10 @@
         {
           "sentences": [
             {
-              "text": "In 2017, he promised to triple the monthly state benefits, currently 450,000 rials per citizen, in order to tackle corruption and create six million jobs.",
+              "text": "In 2017, he promised to triple the monthly state benefits, currently Rls.450,000 per citizen, in order to tackle corruption and create six million jobs.",
               "links": [
                 {
-                  "text": "rials",
+                  "text": "Rls.",
                   "type": "internal",
                   "page": "Iranian rial"
                 },
