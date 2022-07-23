@@ -337,7 +337,14 @@
             "text": "President of Iran"
           },
           "order": {
-            "text": "8th"
+            "text": "8th",
+            "links": [
+              {
+                "text": "8th",
+                "type": "internal",
+                "page": "List of Presidents of Iran"
+              }
+            ]
           },
           "predecessor": {
             "text": "Hassan Rouhani",
