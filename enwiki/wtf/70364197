@@ -5,7 +5,8 @@
     "1975 births",
     "Living people",
     "People from Hamadan Province",
-    "Government ministers of Iran"
+    "Government ministers of Iran",
+    "Culture ministers of Iran"
   ],
   "sections": [
     {
@@ -193,10 +194,6 @@
         },
         {
           "template": "iran-politician-stub"
-        },
-        {
-          "date": "July 2022",
-          "template": "improve categories"
         }
       ]
     }
