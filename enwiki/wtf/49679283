@@ -2421,6 +2421,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Raisi_in_2021_election_08.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Raisi_in_2021_election_08.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Raisi_in_2021_election_08.jpg",
+          "caption": "Raisi cast his ballot in the presidential election on 18 June 2021",
+          "links": []
+        }
+      ],
       "references": [
         {
           "last": "Yee",
@@ -2700,11 +2709,7 @@
                   "page": "Islamic Republic of Iran Armed Forces"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Raisi meanwhile appointed former IRGC commander-in-chief Mohsen Rezaee as the Vice President for Economic Affairs on 25 August.",
               "links": [
@@ -2796,11 +2801,7 @@
                   "page": "Foundation of Martyrs and Veterans Affairs"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Importation of COVID-19 vaccine meanwhile surged since Raisi took office, with over 30 million doses being imported during the Iranian month of Shahrivar, more than the vaccine imports since February 2021, while 13.4 million were imported during the month of Mordad in which Raisi was sworn-in.",
               "links": [
@@ -2877,6 +2878,22 @@
               ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Aliyev-Raisi_meeting_(2022-06-29)_02.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Aliyev-Raisi_meeting_(2022-06-29)_02.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Aliyev-Raisi_meeting_(2022-06-29)_02.jpg",
+          "caption": "Raisi and Azerbaijan's President Ilham Aliyev, 29 June 2022",
+          "links": []
+        },
+        {
+          "file": "File:Putin_meeting_with_Iranian_leaders_(2022-07-19).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Putin_meeting_with_Iranian_leaders_(2022-07-19).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Putin_meeting_with_Iranian_leaders_(2022-07-19).jpg",
+          "caption": "Russian President Vladimir Putin meeting with Iran's Supreme Leader Ayatollah Ali Khamenei and President Raisi in Tehran, 19 July 2022",
+          "links": []
         }
       ],
       "templates": [
@@ -3525,6 +3542,102 @@
       ]
     },
     {
+      "title": "Foreign policy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In April 2022, Raisi warned that Israel will be targeted by his country's armed forces if it makes \"the slightest move\" against Iran.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Israel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Raisi said that his government's priority in the meeting with Syrian President Bashar al-Assad was to strengthen strategic ties between Iran and Syria.",
+              "links": [
+                {
+                  "text": "Syrian",
+                  "type": "internal",
+                  "page": "Syria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bashar al-Assad"
+                },
+                {
+                  "text": "strategic ties",
+                  "type": "internal",
+                  "page": "Iran–Syria relations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He criticized the Saudi-led blockade of Yemen and called for a ceasefire.",
+              "links": [
+                {
+                  "text": "Saudi",
+                  "type": "internal",
+                  "page": "Saudi Arabia"
+                },
+                {
+                  "text": "blockade of Yemen",
+                  "type": "internal",
+                  "page": "blockade of Yemen"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Khamenei_meets_with_Bashar_al-Assad_C.jpeg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Khamenei_meets_with_Bashar_al-Assad_C.jpeg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Khamenei_meets_with_Bashar_al-Assad_C.jpeg",
+          "caption": "Raisi with Ayatollah Khamenei and Syrian President Bashar al-Assad on 8 May 2022",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Raisi says Iran will target heart of Israel if it acts against Iranian nation",
+          "url": "https://www.reuters.com/world/middle-east/president-raisi-says-iran-will-target-heart-israel-if-it-acts-against-iranian-2022-04-18/",
+          "work": "Reuters",
+          "date": "18 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Syria's Bashar Assad pays rare visit to ally Iran",
+          "url": "https://www.dw.com/en/syrias-bashar-assad-pays-rare-visit-to-ally-iran/a-61725309",
+          "work": "Deutsche Welle",
+          "date": "8 May 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Raisi says Iran fully backs peace and lifting siege on Yemen",
+          "url": "https://www.tehrantimes.com/news/474091/Raisi-says-Iran-fully-backs-peace-and-lifting-siege-on-Yemen",
+          "work": "Tehran Times",
+          "date": "26 June 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Cultural",
       "depth": 1,
       "paragraphs": [
@@ -3584,7 +3697,14 @@
         {
           "sentences": [
             {
-              "text": "Raisi has said that same-sex relations are \"nothing but savagery.\""
+              "text": "Raisi has said that same-sex relations are \"nothing but savagery.\"",
+              "links": [
+                {
+                  "text": "same-sex relations",
+                  "type": "internal",
+                  "page": "LGBT rights in Iran"
+                }
+              ]
             }
           ]
         }

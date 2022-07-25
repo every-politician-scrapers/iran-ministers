@@ -2490,12 +2490,6 @@
           "links": []
         }
       ],
-      "templates": [
-        {
-          "date": "June 2022",
-          "template": "cn"
-        }
-      ],
       "references": [
         {
           "title": "Castro to Ayatollah Khamenei: \"Why did you shake with your left hand instead of right?\"",
@@ -2531,6 +2525,10 @@
           "archive-date": "6 May 2011",
           "template": "citation",
           "type": "book"
+        },
+        {
+          "date": "June 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -4270,7 +4268,7 @@
       "templates": [
         {
           "list": [
-            "The ritual of Bara’ah which means refusing every instance of mercilessness, cruelty, wrongdoing and corruption of the tyrants of any time, and rising against intimidation and extortion by the arrogant throughout history, is one of the great blessings of Hajj, and an opportunity for oppressed Muslim nations."
+            "The ritual of Bara'ah which means refusing every instance of mercilessness, cruelty, wrongdoing and corruption of the tyrants of any time, and rising against intimidation and extortion by the arrogant throughout history, is one of the great blessings of Hajj, and an opportunity for oppressed Muslim nations."
           ],
           "template": "blockquote"
         }
@@ -4416,39 +4414,6 @@
       ],
       "references": [
         {
-          "url": "http://news.bbc.co.uk/1/hi/world/middle_east/868244.stm",
-          "title": "Middle East &#124; Punch-up over press law",
-          "work": "BBC News",
-          "date": "6 August 2000",
-          "access-date": "19 June 2009",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20040624111629/http://news.bbc.co.uk/1/hi/world/middle_east/868244.stm",
-          "archive-date": "24 June 2004",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
-          "title": "صدا و سیمای جمهوری اسلامی ایران",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20070701213118/http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
-          "archive-date": "1 July 2007",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
-          "archive-url": "https://web.archive.org/web/20080114011146/http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
-          "archive-date": "14 January 2008",
-          "title": "Introduction to Persian Traditional Music",
-          "first": "Shahrokh",
-          "last": "Yadegari",
-          "publisher": "Beyond the Veil",
-          "access-date": "19 June 2009",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Inhorn",
           "first": "Marcia C.",
           "author-link": "Marcia Inhorn",
@@ -4472,6 +4437,27 @@
           "archive-url": "https://web.archive.org/web/20100727162512/http://muslimvoices.org/stem-cell-research-consistant-shiite-islam/",
           "archive-date": "27 July 2010",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
+          "title": "صدا و سیمای جمهوری اسلامی ایران",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20070701213118/http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
+          "archive-date": "1 July 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
+          "archive-url": "https://web.archive.org/web/20080114011146/http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
+          "archive-date": "14 January 2008",
+          "title": "Introduction to Persian Traditional Music",
+          "first": "Shahrokh",
+          "last": "Yadegari",
+          "publisher": "Beyond the Veil",
+          "access-date": "19 June 2009",
           "template": "citation",
           "type": "web"
         }
@@ -7027,7 +7013,7 @@
               "text": "makes more sense (though is just as slanderous), if \"Zionists\" is replaced by \"Jews\"."
             },
             {
-              "text": "(The Zionist movement not have being founded until the late 19th century, Zionists are not likely to \"have always been a plague\".) Other accusations of Anti-Semitism have come from Victoria Coates and Ellie Cohanim, who note his holocaust denial, and find his \"nine-point plan\" to \"wipe\" Israel \"off the face of the earth\" uncomfortably reminiscent of Hitler's Final Solution; and the  Jerusalem Post, who  quote Khamenei's attack on the 2020 Israel–United Arab Emirates normalization agreement: The nation of Palestine is under various, severe pressures.",
+              "text": "(The Zionist movement not have being founded until the late 19th century, Zionists are not likely to \"have always been a plague\".) Other accusations of Anti-Semitism have come from Victoria Coates and Ellie Cohanim, who note his holocaust denial, and find his \"nine-point plan\" to \"wipe\" Israel \"off the face of the earth\" uncomfortably reminiscent of Hitler's Final Solution; and the  Jerusalem Post, who  quote Khamenei's attack on the 2020 Israel–United Arab Emirates normalization agreement:",
               "links": [
                 {
                   "type": "internal",
@@ -7044,13 +7030,8 @@
               ]
             },
             {
-              "text": "Then, the UAE acts in agreement with the Israelis & filthy Zionist agents of the U.S. -- such as the Jewish member of Trump's family -- with utmost cruelty against the interests of the World of Islam.\" and argue \"filthy Zionist agents,\" \"the Jewish member of Trump's family\" (i.e. Jared Kushner), and \"cruel\", are all words channeling \"antisemitic tropes and dog whistles\".",
+              "text": "and argue \"filthy Zionist agents,\" \"the Jewish member of Trump's family\" (i.e. Jared Kushner), and \"cruel\", are all words channeling \"antisemitic tropes and dog whistles\".",
               "links": [
-                {
-                  "text": "UAE",
-                  "type": "internal",
-                  "page": "United Arab Emirates"
-                },
                 {
                   "type": "internal",
                   "page": "Jared Kushner"
@@ -7058,6 +7039,14 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "The nation of Palestine is under various, severe pressures. Then, the UAE acts in agreement with the Israelis & filthy Zionist agents of the U.S. -- such as the Jewish member of Trump's family -- with utmost cruelty against the interests of the World of Islam.\""
+          ],
+          "template": "blockquote"
         }
       ],
       "lists": [
@@ -8211,27 +8200,6 @@
         }
       ],
       "references": [
-        {
-          "url": "http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
-          "archive-url": "https://web.archive.org/web/20080114011146/http://www.internews.org/visavis/BTVPagesInews/Persian_trad_music.html",
-          "archive-date": "14 January 2008",
-          "title": "Introduction to Persian Traditional Music",
-          "first": "Shahrokh",
-          "last": "Yadegari",
-          "publisher": "Beyond the Veil",
-          "access-date": "19 June 2009",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
-          "title": "صدا و سیمای جمهوری اسلامی ایران",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20070701213118/http://www.irib.ir/occasions/Rahbar/further_fatwas.htm",
-          "archive-date": "1 July 2007",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "https://bostonreview.net/world/ganji-khamenei-israel",
           "title": "Ayatollah Khamenei and the Destruction of Israel",
