@@ -1,5 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q5589253,Government of Mir-Hossein Mousavi,,,1981-01-01,9,,,1989-01-01,9,,,,,,,,
+,Q5589253,Government of Mir-Hossein Mousavi,1981-01-01,9,1981-01-01,9,1989-01-01,9,1989-01-01,9,,,,,,,,
 ,Q1091523,Ahmadinejad's Second Cabinet,2009-01-01,9,,,2013-01-01,9,,,,,,,,,,
 ,Q14342265,Government of Hassan Rouhani (2013–2017),2013-08-03,11,,,2017-08-03,11,,,Q19895191,Government of Mahmoud Ahmadinejad,Q31069976,Government of Hassan Rouhani (2017-2021),Q19895191,Government of Mahmoud Ahmadinejad,Q31069976,Government of Hassan Rouhani (2017-2021)
 ,Q31069976,Government of Hassan Rouhani (2017-2021),2017-08-03,11,,,2021-08-03,11,,,,,Q107326691,Government of Ebrahim Raisi (2021-2025),Q14342265,Government of Hassan Rouhani (2013–2017),Q107326691,Government of Ebrahim Raisi (2021-2025)
